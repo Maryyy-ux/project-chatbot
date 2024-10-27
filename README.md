@@ -1,6 +1,6 @@
 # Project Name
 
-Project chatbot. Isn't finished yet.
+Project chatbot. 
 
 ## The problem
 
